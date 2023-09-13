@@ -1,8 +1,18 @@
 # Build your first Decentralized Application
 
 ## Demo
+[![Building my first Decentralized Application](https://i.ytimg.com/vi/2gOZ6S_zksY/mqdefault.jpg "Building my first Decentralized Application")]((https://www.youtube.com/watch?v=2gOZ6S_zksY) "Building my first Decentralized Application")
+    
+<details>
+<summary><h2>Screenshots</h2></summary>
+    
+![image](https://github.com/edsondsouza/firstDapp/assets/93525771/cd1173a0-c528-4b73-85d0-c9b004c432bb)
 
-## Screenshots
+![image](https://github.com/edsondsouza/firstDapp/assets/93525771/eb50630a-cff8-491e-8dd5-9573a86ebdc1)
+
+![image](https://github.com/edsondsouza/firstDapp/assets/93525771/affa9b82-29d6-4188-b9b1-7e4cbbafe918)
+
+</details> 
 
 ## Languages used 
 - HTML
