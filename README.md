@@ -10,6 +10,9 @@
 - JavaScript
 - Solidity (To build smart contracts)
 
+## Library used
+- Ethers.js
+
 ## Tools Used
 - Remix IDE
 - MetaMask Wallet
