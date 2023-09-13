@@ -35,4 +35,4 @@ Never use the wallet having real ETH for development and never share the wallet 
 ## Clone the repository
 - Open up the terminal and execute the following command `git clone https://github.com/edsondsouza/firstDapp.git`
 
-If you liked the project please star the repo and do consider me following on social media platforms https://www.biodrop.io/edsondsouza# firstDapp
+If you liked the project please star the repo and do consider me following on social media platforms https://www.biodrop.io/edsondsouza
