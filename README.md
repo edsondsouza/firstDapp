@@ -1,8 +1,9 @@
 # Build your first Decentralized Application
 
 ## Demo
-[![Building my first Decentralized Application](https://i.ytimg.com/vi/2gOZ6S_zksY/mqdefault.jpg "Building my first Decentralized Application")]((https://www.youtube.com/watch?v=2gOZ6S_zksY) "Building my first Decentralized Application")
-    
+
+[![Dapp](https://i.ytimg.com/vi/2gOZ6S_zksY/mqdefault.jpg "dapp")](https://www.youtube.com/watch?v=2gOZ6S_zksY "dapp")
+
 <details>
 <summary><h2>Screenshots</h2></summary>
     
